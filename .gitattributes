@@ -1,1 +1,6 @@
-*.dart linguist-language=JavaScript
+# Set the language for Flutter (Dart)
+*.dart linguist-language=Dart
+
+# Ignore C++ code if it's not part of the main project
+*.cpp linguist-vendored
+*.h linguist-vendored
