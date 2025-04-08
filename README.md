@@ -20,6 +20,6 @@ A simple Flutter news app that displays categorized news articles using a TabBar
 - [`webview_flutter`](https://pub.dev/packages/webview_flutter) - To open the news articles inside the app using a WebView.
 
 
-```bash
-git clone https://github.com/your-username/news_app.git
-cd news_app
+## 🎥 App preview  
+<img src="assets/ref.gif" width="300" alt="Newsly App" />
+
